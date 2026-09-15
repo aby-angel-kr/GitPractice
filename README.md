@@ -2,5 +2,5 @@
 
 
 
-I am learning Git and GitHub.
+I am learning Git and GitHub from Developer A.
 
