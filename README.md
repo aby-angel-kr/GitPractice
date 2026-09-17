@@ -2,3 +2,5 @@
 
 I am learning Git and GitHub from Developer A and Developer B.
 
+Learning Git and Linux using Ubuntu WSL.
+
